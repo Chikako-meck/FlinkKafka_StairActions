@@ -1,0 +1,5 @@
+# jarを除外
+*.jar
+target/
+*.log
+*.out
